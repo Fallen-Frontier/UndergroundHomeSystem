@@ -1,5 +1,12 @@
 name: UndergroundHomeSystem
 version: '0.1.0'
-main: com.CodeerStudios.undergroundHomeSystem.UndergroundHomeSystem
+main: com.FallenFrontier.undergroundHomeSystem.UndergroundHomeSystem
 api-version: '1.21'
 authors: [ Thomas Froud ]
+commands:
+  home:
+    description: Teleports player to their underground home
+    usage: /home
+permissions:
+  undergroundhome.use:
+    default: true
