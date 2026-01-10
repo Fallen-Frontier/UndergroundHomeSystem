@@ -1,0 +1,5 @@
+name: UndergroundHomeSystem
+version: '0.1.0'
+main: com.CodeerStudios.undergroundHomeSystem.UndergroundHomeSystem
+api-version: '1.21'
+authors: [ Thomas Froud ]
