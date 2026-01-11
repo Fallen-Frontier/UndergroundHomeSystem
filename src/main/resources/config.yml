@@ -1,2 +1,4 @@
 # Path to world folder
-folder-location:
+underground-worlds:
+  base-folder:
+  template-name:
